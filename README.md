@@ -37,12 +37,15 @@ Collaborative: I thrive in team environments, where I can motivate and contribut
 Deadline-Driven: Able to meet challenges with effective problem-solving and time management skills.<br>
 I’m eager to take on challenging opportunities that enable me to grow and contribute meaningfully to the tech world. Let’s build something great together! 
 <br>
- ## My Hobbies ✍
+## My Hobbies ✍
 
 <img align='right' src='https://github.com/Ramraj214/Ramraj214/blob/main/technologies/tenor.gif' width='200"'>
  
 Having a hobby is a <b>great</b><b> thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is same as most among us like watching netflix, and movies. <b>Reading books based on Tech</b> Also I have started writing <a href="https://medium.com/@ramrajnagapure54321">Blogs</a> .Also most of the time learning new algo gives me joy.
+
+
+
 ##
 
 
