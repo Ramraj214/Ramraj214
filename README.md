@@ -28,8 +28,8 @@ Hi there!👋 I’m <b> Ramraj Nagapure </b>, a passionate Full Stack Web Develo
 ♾️ DevOps Skills : Ansible,kubernetes,Terraform,jenkins,shell scripting, Docker, Devops on AWS, Git, Github , Docker-slim, SonarQube and Trivy.\
 👨‍💻 Programming Languages: Python,C/C++,java,javascript .\
 📊 Databases:
-💽 MySQL | 🍃 MongoDB Databases: SQL 🗄️
-📫 How to reach me: Mail me : <a href="ramrajnagapure@gmail.com">Ramran Nagapure</a>
+💽 MySQL | 🍃 MongoDB Databases: SQL.\
+📫 How to reach me: Mail me : <a href="ramrajnagapure@gmail.com">Ramraj Nagapure</a>
 
 🚀 Why Me? : <br>
 Passionate & Adaptable: Always curious to explore and learn new technologies to stay ahead of the curve.<br>
