@@ -5,7 +5,7 @@
  ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ramraj 👨‍🎓
 <div>
  <p>
-  <img width="400" height="300" src="https://github.com/Ramraj214/Ramraj214/blob/main/1709674661110-1.gif"> 
+  <img width="500" height="300" align='center' src="https://github.com/Ramraj214/Ramraj214/blob/main/1709674661110-1.gif"> 
 </p>
   
 
@@ -18,15 +18,15 @@ Hi there!👋 I’m <b> Ramraj Nagapure </b>, a passionate Full Stack Web Develo
 
 🌟 With a strong aptitude for learning and the ability to adapt to diverse environments, I bring:
 
-🧠 Problem-solving expertise
-🤝 Team spirit and collaboration
-⏳ The ability to deliver under pressure
-🔍 Whether it's breaking down complex problems, exploring the latest in DevOps automation, or simply building something amazing with code, I’m always up for a challenge!
+🧠 Problem-solving expertise<br>
+🤝 Team spirit and collaboration<br>
+⏳ The ability to deliver under pressure <br>
+🔍 Whether it's breaking down complex problems, exploring the latest in DevOps automation, or simply building something amazing with code, I’m always up for a challenge!<br>
 
-🌈 My Values
-✨ Continuous Learning
-⚙️ Innovation and Creativity
-💡 Building Meaningful Solutions
+🌈 My Values<br>
+✨ Continuous Learning <br>
+⚙️ Innovation and Creativity<br>
+💡 Building Meaningful Solutions<br>
 
  <br>
 
@@ -38,11 +38,17 @@ Hi there!👋 I’m <b> Ramraj Nagapure </b>, a passionate Full Stack Web Develo
  
  
 💻 Skilled in Full-stack development as a MERN stack devloper.\
-♾️ DevOps Skills : Ansible,kubernetes,Terraform,jenkins,shell scripting, Docker, Devops on AWS, Git and Github.\
-👨‍💻 Programming Languages: Python,C/C++,java, .\
+♾️ DevOps Skills : Ansible,kubernetes,Terraform,jenkins,shell scripting, Docker, Devops on AWS, Git, Github , Docker-slim, SonarQube and Trivy.\
+👨‍💻 Programming Languages: Python,C/C++,java,javascript .\
+📊 Databases:
+💽 MySQL | 🍃 MongoDB Databases: SQL 🗄️
 📫 How to reach me: Mail me : <a href="ramrajnagapure@gmail.com">Ramran Nagapure</a>
 
-
+🚀 Why Me?
+Passionate & Adaptable: Always curious to explore and learn new technologies to stay ahead of the curve.
+Collaborative: I thrive in team environments, where I can motivate and contribute to collective goals.
+Deadline-Driven: Able to meet challenges with effective problem-solving and time management skills.
+I’m eager to take on challenging opportunities that enable me to grow and contribute meaningfully to the tech world. Let’s build something great together! 💡
  
  ## My Hobbies ✍
 
@@ -87,10 +93,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 ## 📝 My Technical Blog Posts Updates 🤓
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/1" alt="Recent Article 1"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/2" alt="Recent Article 2"> 
- 
+<a target="_blank" href="https://medium.com/@ramrajnagapure54321/mongodb-introduction-sharding-aggregation-pipeline-in-detail-0703b53dd4c9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/0" alt="Recent Article 0"> 
 
 
 
