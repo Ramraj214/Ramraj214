@@ -9,7 +9,7 @@
 </p>
 
 
-## About Me ✍
+<b>About Me</b>
 Hi there!👋 I’m <b> Ramraj Nagapure </b>, a passionate Full Stack Web Developer and an aspiring Software Engineer with expertise in programming, DevOps, and cloud infrastructure. I thrive on crafting scalable web applications, designing robust architectures, and diving deep into the core concepts of cutting-edge technologies.With a strong aptitude for learning and the ability to adapt to diverse environments, I bring:
 
 🧠 Problem-solving expertise<br>
