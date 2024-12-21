@@ -111,7 +111,7 @@ but also gives you various benefits which can improve the quality of your life. 
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ramraj-nagapure)
-<a href="https://www.linkedin.com/in/ramraj-nagapure/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADAGpd4BLfVen4KReJZy5t4lqLnu94xk8sE,1635474680129)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnTA8xI0WSv%2BGE4uAE5uVOA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view">
+<a href="https://www.linkedin.com/in/ramraj-nagapure/overlay/1734779799808/single-media-viewer?type=DOCUMENT&profileId=ACoAAEcrGesBqO-h4C8NYNfNMspqBDO1tL1afX8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPOsWhdBHT%2BK%2Fnu9SxVmP7g%3D%3D">
   <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
 </a>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ramrajnagapure/)
