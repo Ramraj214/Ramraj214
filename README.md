@@ -111,7 +111,10 @@ but also gives you various benefits which can improve the quality of your life. 
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ramraj-nagapure)
-[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](www.linkedin.com/in/ramraj-nagapure/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADAGpd4BLfVen4KReJZy5t4lqLnu94xk8sE,1635474680129)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnTA8xI0WSv%2BGE4uAE5uVOA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
+[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">]<a href="https://www.linkedin.com/in/ramraj-nagapure/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADAGpd4BLfVen4KReJZy5t4lqLnu94xk8sE,1635474680129)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnTA8xI0WSv%2BGE4uAE5uVOA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view">
+  <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
+</a>
+
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ramrajnagapure/)
 <a href="https://medium.com/@ramrajnagapure54321" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 
@@ -120,24 +123,6 @@ but also gives you various benefits which can improve the quality of your life. 
   <b>Check out my profile stats!</b><br>
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" alt="Profile views" />
 </p>
-
-<style>
-  p {
-    background-color: #f1f1f1;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-  b {
-    font-size: 1.5rem;
-    color: #333;
-  }
-  img {
-    border: 2px solid #ddd;
-    border-radius: 10px;
-    margin-top: 10px;
-  }
-</style>
 
 
 
