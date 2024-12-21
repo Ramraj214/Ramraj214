@@ -6,7 +6,7 @@
 <div>
 
 
-                              ## About Me ✍
+## About Me ✍
 <p>
   <img width="300" height="250" align="left" style="margin:5px; padding-top:10px;" src="https://github.com/Ramraj214/Ramraj214/blob/main/1709674661110-1.gif">
 </p>
@@ -16,11 +16,6 @@ Hi there!👋 I’m <b> Ramraj Nagapure </b>, a passionate Full Stack Web Develo
 🤝 Team spirit and collaboration<br>
 ⏳ The ability to deliver under pressure <br>
 🔍 Whether it's breaking down complex problems, exploring the latest in DevOps automation, or simply building something amazing with code, I’m always up for a challenge!<br>
-
-🌈 My Values<br>
-✨ Continuous Learning <br>
-⚙️ Innovation and Creativity<br>
-💡 Building Meaningful Solutions<br>
 
  <br>
 
