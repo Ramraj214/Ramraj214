@@ -73,6 +73,17 @@ but also gives you various benefits which can improve the quality of your life. 
  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/-Trivy-2A9D8E?style=flat-square&logo=trivy&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-2E2A47?style=flat-square&logo=linux&logoColor=white)
 
 
 
@@ -100,15 +111,34 @@ but also gives you various benefits which can improve the quality of your life. 
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ramraj-nagapure)
-[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://www.linkedin.com/in/abhishek-kesare/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADAGpd4BLfVen4KReJZy5t4lqLnu94xk8sE,1635474680129)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnTA8xI0WSv%2BGE4uAE5uVOA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/_abhi_24_6/)
-<a href="https://medium.com/@abhikesare" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](www.linkedin.com/in/ramraj-nagapure/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADAGpd4BLfVen4KReJZy5t4lqLnu94xk8sE,1635474680129)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnTA8xI0WSv%2BGE4uAE5uVOA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ramrajnagapure/)
+<a href="https://medium.com/@ramrajnagapure54321" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 
 
-<p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+<p align="center">
+  <b>Check out my profile stats!</b><br>
+  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" alt="Profile views" />
 </p>
+
+<style>
+  p {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  b {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  img {
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+</style>
+
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
