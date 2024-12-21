@@ -42,7 +42,7 @@ I’m eager to take on challenging opportunities that enable me to grow and cont
 <img align='right' src='https://github.com/Ramraj214/Ramraj214/blob/main/technologies/tenor.gif' width='200"'>
  
 Having a hobby is a <b>great</b><b> thing</b> for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is same as most among us like watching netflix, and movies. <b>Reading books based on Tech</b> Also I have started writing <a href="https://https://medium.com/@ramrajnagapure54321/">Blogs</a> .Also most of the time learning new algo gives me joy.
+but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is same as most among us like watching netflix, and movies. <b>Reading books based on Tech</b> Also I have started writing <a href="https://medium.com/@ramrajnagapure54321">Blogs</a> .Also most of the time learning new algo gives me joy.
 ##
 
 
@@ -80,7 +80,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 ## 📝 My Technical Blog Posts Updates 🤓
-<a target="_blank" href="https://medium.com/@ramrajnagapure54321/mongodb-introduction-sharding-aggregation-pipeline-in-detail-0703b53dd4c9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://medium.com/@ramrajnagapure54321/mongodb-introduction-sharding-aggregation-pipeline-in-detail-0703b53dd4c9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/0" alt="Recent Article 0"> 
 
 
 
@@ -90,16 +90,16 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <p align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=abhikesare9&show_icons=true&theme=tokyonight&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Ramraj214&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919022841846) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919766376073) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
   
 
 
 ## Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/abhishek-kesare)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ramraj-nagapure)
 [<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://www.linkedin.com/in/abhishek-kesare/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADAGpd4BLfVen4KReJZy5t4lqLnu94xk8sE,1635474680129)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnTA8xI0WSv%2BGE4uAE5uVOA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/_abhi_24_6/)
 <a href="https://medium.com/@abhikesare" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
