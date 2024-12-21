@@ -31,12 +31,12 @@ Hi there!👋 I’m <b> Ramraj Nagapure </b>, a passionate Full Stack Web Develo
 💽 MySQL | 🍃 MongoDB Databases: SQL 🗄️
 📫 How to reach me: Mail me : <a href="ramrajnagapure@gmail.com">Ramran Nagapure</a>
 
-🚀 Why Me?
-Passionate & Adaptable: Always curious to explore and learn new technologies to stay ahead of the curve.
-Collaborative: I thrive in team environments, where I can motivate and contribute to collective goals.
-Deadline-Driven: Able to meet challenges with effective problem-solving and time management skills.
-I’m eager to take on challenging opportunities that enable me to grow and contribute meaningfully to the tech world. Let’s build something great together! 💡
- 
+🚀 Why Me? : <br>
+Passionate & Adaptable: Always curious to explore and learn new technologies to stay ahead of the curve.<br>
+Collaborative: I thrive in team environments, where I can motivate and contribute to collective goals.<br>
+Deadline-Driven: Able to meet challenges with effective problem-solving and time management skills.<br>
+I’m eager to take on challenging opportunities that enable me to grow and contribute meaningfully to the tech world. Let’s build something great together! 
+<br>
  ## My Hobbies ✍
 
 <img align='right' src='https://github.com/Ramraj214/Ramraj214/blob/main/technologies/tenor.gif' width='200"'>
