@@ -5,7 +5,7 @@
  ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ramraj 👨‍🎓
 <div>
  <p>
-  <img width="500" height="300" align='left' src="https://github.com/Ramraj214/Ramraj214/blob/main/1709674661110-1.gif"> 
+  <img width="500" height="300" justify='center' align='center' src="https://github.com/Ramraj214/Ramraj214/blob/main/1709674661110-1.gif"> 
 </p>
   
 
