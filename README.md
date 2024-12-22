@@ -116,8 +116,8 @@ but also gives you various benefits which can improve the quality of your life. 
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ramraj-nagapure)
-<a href="https://drive.google.com/uc?export=download&id=1Uf39jh_8NoxQ0n9j2SxEi2oxZwip3zTW">
-  <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
+<a href="https://www.linkedin.com/in/ramraj-nagapure/overlay/1734855867928/single-media-viewer?type=DOCUMENT&profileId=ACoAAEcrGesBqO-h4C8NYNfNMspqBDO1tL1afX8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFSAeCObfRMekk4%2Fj6y9FRg%3D%3D">
+  <img src="https://drive.google.com/file/d/1JOo5nnlW4mj5HRk0sU211UCP0DM5vErV/view?usp=drive_link" alt="Download Resume">
 </a>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ramrajnagapure/)
 <a href="https://medium.com/@ramrajnagapure54321" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
