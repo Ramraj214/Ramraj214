@@ -98,7 +98,7 @@ but also gives you various benefits which can improve the quality of your life. 
 ## 📝 My Technical Blog Posts Updates 🤓
 <a target="_blank" href="https://medium.com/@ramrajnagapure54321/mongodb-introduction-sharding-aggregation-pipeline-in-detail-0703b53dd4c9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/0" alt="Recent Article 0"> 
 
-
+<a target="_blank" href="https://medium.com/@ramrajnagapure54321/beyond-infrastructure-leveraging-remote-executioner-local-executioner-and-file-provisioners-in-0f4f94324deb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/1" alt="Recent Article 0"> 
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
