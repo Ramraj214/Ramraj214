@@ -30,7 +30,7 @@ Hi there!👋 I’m <b> Ramraj Nagapure </b>, a passionate Full Stack Web Develo
 👨‍💻 Programming Languages: Python,C/C++,java,javascript .\
 📊 Databases:
 💽 MySQL | 🍃 MongoDB Databases: SQL.\
-📫 How to reach me: Mail me : <a href="mailto:shivsolanke12+github@gmail.com">shivsolanke12+github@gmail.com</a>
+📫 How to reach me: Mail me : <a href="mailto:ramrajnagapure+github@gmail.com">ramrajnagapure+github@gmail.com</a>
 
 🚀 Why Me? : <br>
 Passionate & Adaptable: Always curious to explore and learn new technologies to stay ahead of the curve.<br>
@@ -53,9 +53,9 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### My Technologies
 <p align="center">
- <img height="200" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/devops-lifecycle.jpeg" />
- <img height="200" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/mern.png" />
- <img height="200" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/CLoud-COmputing.jpg" />
+ <img height="150" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/devops-lifecycle.jpeg" />
+ <img height="150" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/mern.png" />
+ <img height="150" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/CLoud-COmputing.jpg" />
  
 
 ### Technical Tools
@@ -73,7 +73,6 @@ but also gives you various benefits which can improve the quality of your life. 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
- ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
  ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
