@@ -30,7 +30,7 @@ Hi there!👋 I’m <b> Ramraj Nagapure </b>, a passionate Full Stack Web Develo
 👨‍💻 Programming Languages: Python,C/C++,java,javascript .\
 📊 Databases:
 💽 MySQL | 🍃 MongoDB Databases: SQL.\
-📫 How to reach me: Mail me : <a href="ramrajnagapure@gmail.com">Ramraj Nagapure</a>
+📫 How to reach me: Mail me : <a href="mailto:shivsolanke12+github@gmail.com">shivsolanke12+github@gmail.com</a>
 
 🚀 Why Me? : <br>
 Passionate & Adaptable: Always curious to explore and learn new technologies to stay ahead of the curve.<br>
