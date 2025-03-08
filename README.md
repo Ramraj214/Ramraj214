@@ -7,7 +7,7 @@
 
 
 <p>
-  <img width="300" height="250" style="align:left" style="margin:5px; padding-top:10px;" src="https://github.com/Ramraj214/Ramraj214/blob/main/1709674661110-1.gif">
+  <img width="300" height="250" align="left" style="margin:5px; padding-top:10px;" src="https://github.com/Ramraj214/Ramraj214/blob/main/1709674661110-1.gif">
 </p>
 
 ## About Me ✍
@@ -40,7 +40,7 @@ I’m eager to take on challenging opportunities that enable me to grow and cont
 <br>
 ## My Hobbies ✍
 
-<img style="align:right" src='https://github.com/Ramraj214/Ramraj214/blob/main/technologies/tenor.gif' width='200'>
+<img align='right' src='https://github.com/Ramraj214/Ramraj214/blob/main/technologies/tenor.gif' width='200"'>
  
 Having a hobby is a <b>great</b><b> thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is same as most among us like watching netflix, and movies. <b>Reading books based on Tech</b> Also I have started writing <a href="https://medium.com/@ramrajnagapure54321">Blogs</a> .Also most of the time learning new algo gives me joy.
@@ -52,7 +52,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 ### My Technologies
-<p style="align:center">
+<p align="center">
  <img height="200" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/devops-lifecycle.jpeg" />
  <img height="200" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/mern.png" />
  <img height="200" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/CLoud-COmputing.jpg" />
@@ -98,21 +98,19 @@ but also gives you various benefits which can improve the quality of your life. 
 ## 📝 My Technical Blog Posts Updates 🤓
 
 <a target="_blank" href="https://medium.com/@ramrajnagapure54321/effortless-jenkins-deployment-automating-with-terraform-configuring-with-ansible-monitoring-with-230a87c2cce0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/0" alt="Recent Article 0"/>
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/0" alt="Recent Article 0">
 </a>
 
-<a target="_blank" href="https://medium.com/@ramrajnagapure54321/beyond-infrastructure-leveraging-remote-executioner-local-executioner-and-file-provisioners-in-0f4f94324deb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/1" alt="Recent Article 1" /> 
-</a>
+<a target="_blank" href="https://medium.com/@ramrajnagapure54321/beyond-infrastructure-leveraging-remote-executioner-local-executioner-and-file-provisioners-in-0f4f94324deb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/1" alt="Recent Article 1"> 
 
-<a target="_blank" href="https://medium.com/@ramrajnagapure54321/effortless-jenkins-deployment-automating-with-terraform-configuring-with-ansible-monitoring-with-230a87c2cce0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/2" alt="Recent Article 2" /> 
-</a>
+<a target="_blank" href="https://medium.com/@ramrajnagapure54321/effortless-jenkins-deployment-automating-with-terraform-configuring-with-ansible-monitoring-with-230a87c2cce0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/2" alt="Recent Article 2"> 
 
-<h3 style="align:center">
+<h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
 
 
-<p style="align:center">
+<p align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=Ramraj214&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
@@ -127,11 +125,10 @@ but also gives you various benefits which can improve the quality of your life. 
   <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
 </a>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ramrajnagapure/)
-<a href="https://medium.com/@ramrajnagapure54321" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" >
-</a>
+<a href="https://medium.com/@ramrajnagapure54321" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 
 
-<p style="align:center">
+<p align="center">
   <b>Check out my profile stats!</b><br>
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" alt="Profile views" />
 </p>
