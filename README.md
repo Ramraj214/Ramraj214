@@ -53,9 +53,9 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### My Technologies
 <p align="center">
- <img height="150" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/devops-lifecycle.jpeg" />
- <img height="150" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/mern.png" />
- <img height="150" width="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/CLoud-COmputing.jpg" />
+ <img height="150" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/devops-lifecycle.jpeg" />
+ <img height="150" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/mern.png" />
+ <img height="200" src="https://github.com/Ramraj214/Ramraj214/blob/main/technologies/CLoud-COmputing.jpg" />
  
 
 ### Technical Tools
@@ -117,7 +117,7 @@ but also gives you various benefits which can improve the quality of your life. 
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ramraj-nagapure)
-<a href="https://drive.google.com/file/d/1JOo5nnlW4mj5HRk0sU211UCP0DM5vErV/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/16fIWV0xdyoLI26RLBxVudlhiEmdI8LPf/view?usp=drive_link">
   <img src="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white" alt="Download Resume">
 </a>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ramrajnagapure/)
