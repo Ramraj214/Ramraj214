@@ -102,8 +102,10 @@ but also gives you various benefits which can improve the quality of your life. 
 </a>
 
 <a target="_blank" href="https://medium.com/@ramrajnagapure54321/beyond-infrastructure-leveraging-remote-executioner-local-executioner-and-file-provisioners-in-0f4f94324deb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/1" alt="Recent Article 1"> 
+</a>
 
 <a target="_blank" href="https://medium.com/@ramrajnagapure54321/effortless-jenkins-deployment-automating-with-terraform-configuring-with-ansible-monitoring-with-230a87c2cce0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/2" alt="Recent Article 2"> 
+</a>
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
