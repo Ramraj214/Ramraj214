@@ -99,7 +99,8 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/1" alt="Recent Article 1"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ramrajnagapure54321/0" alt="Recent Article 2">
  
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
